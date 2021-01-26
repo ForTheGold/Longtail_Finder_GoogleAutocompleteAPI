@@ -8,4 +8,5 @@ The program will query the Google Autocomplete API to compile a huge list of lon
 The program will save those search terms to an excel file.
 Row 1 of the excel file is the search term that the program used to produce the results.
 The subsequent results are the results of the autocomplete data.
+
 Enjoy~
